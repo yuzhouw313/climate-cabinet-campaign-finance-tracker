@@ -53,6 +53,8 @@ This folder is empty by default. The final outputs of make commands will be plac
 
 
 ## Team Member
+Student Name: Yuzhou (April) Wang
+Student Email: yuzhouw@uchicago.edu.
 
 Student Name: Nicolas Posner
 Student Email: nrposner@uchicago.edu
@@ -62,15 +64,6 @@ Student Email: alankagiri@uchicago.edu.
 
 Student Name: Adil Kassim
 Student Email: adilk@uchicago.edu
-
-Student Name: Nayna Pashilkar
-Student Email: npashilkar@uchicago.edu
-
-Student Name: Yangge Xu
-Student Email: yanggexu@uchicago.edu
-
-Student Name: Bhavya Pandey
-Student Email: bhavyapandey@uchicago.edu
 
 Student Name: Kaya Lee
 Student Email: klee2024@uchicago.edu
